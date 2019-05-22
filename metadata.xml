@@ -1,8 +1,7 @@
 <metadata>
-	<name>untitled folder</name>
-	<directory>untitled folder</directory>
-	<description/>
+	<name>Advanced Stats</name>
+	<directory>advanced stats</directory>
+	<description>This mod collects run statistics and uploads to https://boi-advanced-stats.heroku.com<description/>
 	<version>1.0</version>
 	<visibility/>
 </metadata>
-
